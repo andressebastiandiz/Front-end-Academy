@@ -1,0 +1,12 @@
+.circular--square {
+    border-radius: 50%;
+    border-style: solid;
+  }
+
+.container {
+    margin-top: 2rem;
+}
+
+.info {
+  margin-top: 0rem;
+}
